@@ -1,0 +1,2 @@
+<p class="text-center">© 2013 Career Path Training Corp. All rights reserved</p>
+<p class="text-center disclaimer">To start using our net price calculator please <a href="http://www.cfi.edu/netPriceCalculator/npcalc.htm" target="_blank">click here</a>
