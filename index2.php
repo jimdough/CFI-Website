@@ -34,23 +34,44 @@
   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> <!--Left-->
 
   <!-- Insert Content Here -->
- <h3>National Louis University Partnership with Central Florida Institute</h3>
- 
-<p><a href="http://www.nl.edu/info/florida/?leadcategory=Outreach&leadsource=FL-Outreach&Siteidentifier=floridacenter-vanity" target="_blank"><img border="0" style="padding:10px;" alt="Rasmussen College Logo" src="images/nlu-logo.jpg" align="right" /></a>National Louis University’s Bachelor of Science in Health Care Leadership program is geared toward students passionate about helping others through work in the health care field. Whether you’re currently working in health care or looking to enter the industry for the first time, NLU’s HCL degree can help you find your career path and make a difference in the lives of others.</p>
-
-<p>Discover the benefits of NLU’s HCL program:</p>
-
-<ul>
-<li>Courses tailored for health care professionals as well as students with little or no health care experience</li>
-<li>Generous credit for transfer coursework, military and relevant life and work experience including professional licenses and certifications</li>
-<li>Accelerated program that can be completed in as little as two years (depending on transfer credit)</li>
-<li>Accomplished faculty with practical experience in health care settings</li>
-<li>Scholarships available for students with previous college credit</li>
-</ul>
   
-  <h3>National Louis University</h3>
-  <p>For more than 125 years, National Louis University has been preparing professionals for success. To learn more about all the programs offered at NLU including our popular Bachelor of Science in Management,
-visit nl.edu/floridacenter.</p>
+  <p>Central Florida Institute has voluntarily closed both of its campuses effective November 1, 2014.</p>
+<p>If you are a graduate or former student and would like to receive a transcript of your completed course work at either CFI campus, please request in writing via email CFIrecords@careerpathtraining.com or via USPS:</p>
+<br>
+CFI Records
+<br>
+Career Path Training
+<br>
+11300 4th Street North
+<br>
+St. Petersburg, FL  33716
+<br><br>
+<p>For your convenience a transcript request for is available by <a href="transcript.pdf" target="_blank">clicking here.</a></p>
+<p>
+Processing fee is $7 per copy made payable to Career Path Training. </p> 
+
+<p>CFI has continuing education partners who will accept all or some of the course work graduates completed at CFI.  The list below includes those partners and their contact information.</p>
+<ul>
+	<li><a href="rasmussen.php" target="_blank">Rasmussen College</a></li>
+	<li><a href="nsu.php" target="_blank">Nova Southeastern University</a></li>
+	<li><a href="nlu.php" target="_blank">National Louis University</a></li>
+	<li><a href="ghe.php" target="_blank">Global Health Education</a></li>
+</ul>
+<p>Employers who are seeking proof of education of a former CFI Graduate may contact us via <a href="mailto:CFIRecords@careerpathtraing.com">CFIRecords@careerpathtraing.com</a> or:</p>
+<br> 
+CFI Records
+<br>
+Career Path Training
+<br>
+11300 4th Street North
+<br>
+St. Petersburg, FL  33716
+<br>
+727-342-6420 x232
+<br><br>
+<p>For General Information or Questions please call 727-342-6420 x232 or email us at <a href="mailto:CFIRecords@careerpathtraing.com">CFIRecords@careerpathtraing.com</a>.</p>
+
+  
     
   </div> <!-- /column -->
 

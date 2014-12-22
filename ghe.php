@@ -9,7 +9,7 @@
 
     <title>Central Florida Institute Medical & Dental Training</title>
 
-    <?php include("inc/head.php"); ?>
+    <?php include("inc/head2.php"); ?>
     <title>CFI Information - Central Florida Institute Medical and Dental Training Schools of Orlando and Palm Harbor</title>
     </head>
   	<body>
@@ -27,12 +27,11 @@
     </div>
     </div>
     
-		<?php include("inc/menu.inc"); ?>
 
 
 <div class="row" id="interior">
     <div class="container">
-  <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8"> <!--Left-->
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> <!--Left-->
 
   <!-- Insert Content Here -->
   <h3>CFI Graduates - Are You Ready For the Next Step?</h3>
@@ -56,7 +55,6 @@
 
 <!--Right-->
 
-  <?php include("inc/col-1.php"); ?>
   
 <!-- /column -->
   

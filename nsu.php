@@ -6,12 +6,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <?php include("inc/head2.php"); ?>
 
     <title>Central Florida Institute Medical & Dental Training</title>
 
-    <?php include("inc/head.php"); ?>
-    <title>CFI Information - Central Florida Institute Medical and Dental Training Schools of Orlando and Palm Harbor</title>
-    </head>
+       </head>
   	<body>
 
     <div class="row" id="panel1">
@@ -27,12 +26,11 @@
     </div>
     </div>
     
-		<?php include("inc/menu.inc"); ?>
 
 
 <div class="row" id="interior">
     <div class="container">
-  <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8"> <!--Left-->
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"> <!--Left-->
   
    <h3>Nova Southeastern University partners with Central Florida Institute</h3>
 
@@ -82,7 +80,6 @@ Phone 813-574-5271<br>
 
 <!--Right-->
 
-  <?php include("inc/col-1.php"); ?>
   
 <!-- /column -->
   
