@@ -36,9 +36,29 @@
 
   <!-- Insert Content Here -->
   
-  <h3>Coming Soon!</h3>
+  <h4>The final CFI graduation will take place in October 2014.  We would love to see many past graduates at this final event for CFI.</h4>
+  <hr>
+    <h4>Calling all CFI Graduates!</h4>
+<p>If you have been out of school for less than a year, and have not taken advantage of the credentialing exam opportunity available to you through CFI, please contact us immediately.   Many programs are still offering exam prep courses at the school to help you prepare.  Don’t miss your opportunity to hold your degree or diploma as well as your industry credential!</p>
+  
+    <h4><b>Continuing Education Partners:</b> CFI has both formal and informal agreements with other institutions for CFI graduates to advance their degrees beyond those received while at CFI.  </h4>
+  <ul>
+  	<li><a href="http://www.cfi.edu/ghe.php">Global Health Education</a></li>
+  	<li><a href="http://www.cfi.edu/rasmussen.php">Rasmussen College</a></li>
+  	<li><a href="http://www.cfi.edu/nsu.php">Nova Southeastern College</a></li>
+  	<li><a href="http://www.cfi.edu/nlu.php">National Louis University</a></li>
+  	  	<li>Some of the coursework you’ve completed at CFI may qualify towards Christian International College’s nursing program prerequisite coursework.  Please explore your opportunities at <a href="http://www.cicollege.org" target="_blank">www.cicollege.org</a></li>
 
-    
+  </ul>
+<hr>
+  
+  
+  <h4>Transcript Requests:  Transcripts are still available by contacting the Registrar’s office at CFI.</h4>
+  <hr>
+  
+  
+  <h4>Job Development Services, Resume Writing, Credentialing Exam Assistance, and many other services are available by contacting the CASS office.</h4>
+  
   </div> <!-- /column -->
 
 <!--Right-->

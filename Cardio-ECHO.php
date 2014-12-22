@@ -90,7 +90,7 @@
         
         
         <div class="tab-pane fade" id="pre">
-       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="Cardio-ECHO_info.php">visit here.</a></p>  
+       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="ge/ecs/gedt.html" target="_blank">visit here.</a></p>  
 	</div>
         
         

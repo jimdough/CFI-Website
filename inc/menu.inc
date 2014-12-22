@@ -57,6 +57,8 @@
         		   <li><a href="employers.php"><span>Why Hire a CFI grad?</span></a></li>
            	       <li><a href="ghe.php"><span>GHE Partnership</span></a></li>
            	       <li><a href="rasmussen.php"><span>Rasmussen Partnership</span></a></li>
+           	       <li><a href="nsu.php"><span>Nova Southeastern</span></a></li>
+           	       <li><a href="nlu.php"><span>National Louis University</span></a></li>
         		   <li><a href="Accreditatations.php"><span>CFI Accreditations</span></a></li>
         		</ul></li>
          <li><a href="blog" target="_blank"><span>Blog</span></a></li>

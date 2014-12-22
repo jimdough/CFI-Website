@@ -114,7 +114,7 @@
 	          <li>Removing cement</li>
 	          <li>Placing temporary restorations</li>
 	          <li>Placing and removing matrix retainers</li>
-	          <li>Placing sealants, bases, liners, vamishes and bonding agents</li>
+	          <li>Placing sealants, bases, liners, varnishes and bonding agents</li>
          </ul>
 		
         </div>
@@ -124,7 +124,7 @@
 		   
         </div>
         <div class="tab-pane fade" id="pre">
-       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="Dental-Assistant_info.php">visit here.</a></p>  
+       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="ge/DA/gedt.html" target="_blank">visit here.</a></p>  
         </div>
 
       </div> <!-- / tabs-->

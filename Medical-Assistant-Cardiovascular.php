@@ -120,7 +120,7 @@
 		   <p>Central Florida Institute is accredited through <a href="http://www.abhes.org/" target="_blank"><img src="/images/ABHES-logo.jpg" width="60" height="58" hspace="8"  align="left" />Accrediting Bureau of Health Education Schools (ABHES).</a> ABHES has been nationally recognized by the U.S. Secretary of Education as a private, non-profit, independent accrediting agency since 1968. It has been at the forefront of advancing the quality of health education programs throughout the country.</p>
         </div>
         <div class="tab-pane fade" id="pre">
-       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="Medical-Assistant-Cardiovascular_info.php">visit here.</a></p>  
+       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="ge/MAC/gedt.html" target="_blank">visit here.</a></p>  
         </div>
 
       </div> <!-- / tabs-->

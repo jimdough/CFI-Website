@@ -36,8 +36,24 @@
 
   <!-- Insert Content Here -->
   
-  <h3>Coming Soon!</h3>
+  <h4>Calling all CFI Graduates!</h4>
+<p>If you have been out of school for less than a year, and have not taken advantage of the credentialing exam opportunity available to you through CFI, please contact us immediately.   Many programs are still offering exam prep courses at the school to help you prepare.  Don’t miss your opportunity to hold your degree or diploma as well as your industry credential!</p>
 
+  
+  <h4><b>Final Graduation Dates:</b> Orlando Campus - November 14th, 2014 and Palm Harbor - October 25th, 2014</h4>
+  <hr>
+  
+  <h4><b>Continuing Education Partners:</b> CFI has both formal and informal agreements with other institutions for CFI graduates to advance their degrees beyond those received while at CFI.  </h4>
+  <ul>
+  	<li><a href="http://www.cfi.edu/ghe.php" target="_blank">Global Health Education</a></li>
+  	<li><a href="http://www.cfi.edu/rasmussen.php" target="_blank">Rasmussen College</a></li>
+  	<li><a href="http://www.cfi.edu/nsu.php" target="_blank">Nova Southeastern College</a></li>
+  	<li><a href="http://www.cfi.edu/nlu.php">National Louis University</a></li>
+  	<li>Some of the coursework you’ve completed at CFI may qualify towards Christian International College’s nursing program prerequisite coursework.  Please explore your opportunities at <a href="http://www.cicollege.org" target="_blank">www.cicollege.org</a></li>
+  </ul>
+<hr>
+
+<h4>All normal school functions and departments are open and available to you. Feel free to visit any office for assistance.</h4>
     
   </div> <!-- /column -->
 

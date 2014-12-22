@@ -102,9 +102,7 @@
 		   <p><a href="http://www.caahep.org/" target="_blank"><img src="/images/CAAHEP-logo.png" class="pull-left" /></a></p>
 		   
 		   <p><b>Orlando:</b> The Diagnostic Medical Sonography program at Central Florida Institute in Orlando, Florida is accredited by the <a href="http://www.caahep.org" target="_blank">Commission on Accreditation of Allied Health Education Programs</a> upon the recommendation of the Joint Review Committee on Education for Diagnostic Medical Sonography (JRC-DMS).</p>
-		   
-        <p><b>Palm Harbor:</b> The Diagnostic Medical Sonography program at Central Florida Institute is accredited by the <a href="http://www.caahep.org" target="_blank">Commission on Accreditation of Allied Health Education Programs</a> upon the recommendation of the Joint Review Committee for Diagnostic Medical Sonography.  The Palm Harbor program has been placed on Probationary Accreditation as of March 15, 2013.  From Section 301 of the CAAHEP Regulations: “CAAHEP considers a program that has probationary accreditation to retain its status as an accredited program, and includes the name of the program in official listings.”</p>
-        
+		           
          <p>Diagnostic Medical Sonography graduates may obtain the following national credential by passing the certification examination:</p>
        
          <p>*RDMS) - <a href="http://www.ardms.org/" target="_blank"> Registered Diagnostic Medical Sonographer through the American Registry of Diagnostic Medical Sonographers(ARDMS)</a></p>
@@ -113,7 +111,7 @@
  
         </div>
         <div class="tab-pane fade" id="pre">
-       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="Sonographer_info.php">visit here.</a></p>  
+       <p class="text-muted">For information on graduation rates, median debt of graduates completing programs at Central Florida Institute and our Net Price Calculator please <a href="ge/DMS/gedt.html" target="_blank"> here.</a></p>  
         </div>
 
       </div> <!-- / tabs-->
