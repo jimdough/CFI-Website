@@ -46,7 +46,7 @@ Career Path Training
 <br>
 St. Petersburg, FL  33716
 <br><br>
-<p>For your convenience a transcript request for is available by <a href="transcript.pdf" target="_blank">clicking here.</a></p>
+<p>For your convenience, a transcript request form is available by <a href="transcript.pdf" target="_blank">clicking here.</a></p>
 <p>
 Processing fee is $7 per copy made payable to Career Path Training. </p> 
 
