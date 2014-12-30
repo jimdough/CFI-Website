@@ -69,7 +69,7 @@ St. Petersburg, FL  33716
 <br>
 727-342-6420 x232
 <br><br>
-<p>For General Information or Questions please call 727-342-6420 x232 or email us at <a href="mailto:CFIRecords@careerpathtraing.com">CFIRecords@careerpathtraing.com</a>.</p>
+<p>For General Information or Questions please call 727-342-6420 x232 or email us at <a href="mailto:CFIRecords@careerpathtraing.com">CFIRecords@careerpathtraining.com</a>.</p>
 
   
     
