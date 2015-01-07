@@ -57,7 +57,7 @@ Processing fee is $7 per copy made payable to Career Path Training. </p>
 	<li><a href="nlu.php" target="_blank">National Louis University</a></li>
 	<li><a href="ghe.php" target="_blank">Global Health Education</a></li>
 </ul>
-<p>Employers who are seeking proof of education of a former CFI Graduate may contact us via <a href="mailto:CFIRecords@careerpathtraining.com">CFIRecords@careerpathtraining.com</a> or:</p>
+<p>Employers who are seeking proof of education of a former CFI Graduate may contact us via <a href="mailto:CFIRecords@careerpathtraing.com">CFIRecords@careerpathtraing.com</a> or:</p>
 <br> 
 CFI Records
 <br>
@@ -69,7 +69,6 @@ St. Petersburg, FL  33716
 <br>
 727-342-6420 x232
 <br><br>
-<<<<<<< HEAD
 <p>For General Information or Questions please call 727-342-6420 x232 or email us at <a href="mailto:CFIRecords@careerpathtraing.com">CFIRecords@careerpathtraining.com</a>.</p>
 <p>Need information about your student loan? Use the contact information below to look up your Pell and student loan information including your loan servicer:</p>
   <br>
@@ -77,12 +76,6 @@ St. Petersburg, FL  33716
    <br><br>
    <p>1-800-433-3243</p>
    <br><a href="studentaid@ed.gov">studentaid@ed.gov</a>
-=======
-<p>For General Information or Questions please call 727-342-6420 x232 or email us at <a href="mailto:CFIRecords@careerpathtraining.com">CFIRecords@careerpathtraining.com</a>.</p>
-
-  
-    
->>>>>>> FETCH_HEAD
   </div> <!-- /column -->
 
 <!--Right-->
